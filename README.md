@@ -1,2 +1,2 @@
 # hello-world
-1st techhite repo
+1st techhire repo
